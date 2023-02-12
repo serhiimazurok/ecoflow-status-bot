@@ -1,0 +1,5 @@
+telegram:
+  debug: true
+
+mongo:
+  databaseName: ecoflow
